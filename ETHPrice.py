@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 # Config
 COIN = "ethereum"
-DAYS = 30
+DAYS = 60
 VS_CURRENCY = "usd"
 
 # Helper Functions
